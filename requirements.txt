@@ -1,0 +1,6 @@
+numpy<2
+scikit-learn
+scipy
+tqdm
+torch
+torchvision
